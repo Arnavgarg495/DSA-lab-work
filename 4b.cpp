@@ -6,7 +6,7 @@ int main(){
     cin>>x>>y;
     cout<<"Enter rows and columns of second matrix: ";
     int p, q;
-    cin>>p2>>n2;
+    cin>>p>>q;
 
     if (y != p){
         cout<<"Matrix multiplication not possible!"<<endl;
